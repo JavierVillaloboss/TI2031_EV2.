@@ -1,0 +1,58 @@
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+  }
+
+
+
+.line{
+    border-top: 1px solid #222;
+    opacity: 0.2;
+}
+
+a.btn-primary{
+    width: 450px;
+}
+button.btn-success{
+    width: 300px;
+    margin-left: 75px;
+}
+
+.pws{
+    padding-left: 140px;
+}
+
+.sub-link h6{
+    width: 450px;
+    position: relative;
+    color: black;
+    
+}
+
+.b-contenido h1{
+    color: rgb(11, 112, 201);
+    
+}
+
+.b-contenido{
+    width: 550px;
+    margin-left: 300px;
+    margin-top: -45vh;
+    font-family:'Segoe UI', Roboto, 'San Francisco';
+}
+
+h3{
+    width: 400px;
+   font-size: 20px;
+   font-weight: 600;
+   word-spacing: 3px; 
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.shadow.p-3{
+    margin-top: 30vh;
+
+}
